@@ -11,7 +11,7 @@
     </div>
   {% endif %}
 
-  <div class="author__content">
+  <div class="author__content_top">
     <h3 class="author__name p-name" itemprop="name">
       <a class="u-url" rel="me" href="{{ author.home | default: '/' | absolute_url }}" itemprop="url">{{ author.name }}</a>
     </h3>
@@ -21,7 +21,7 @@
       </div>
     {% endif %}
 
-    <ul class="author__content">
+    <ul class="author__content_bottom">
         {%- for link in site.data.navigation.main -%}
         <li class="masthead__menu-item">
             <a href="{{ link.url | relative_url }}"{% if link.description %} title="{{ link.description }}"{% endif %}>{{ link.title }}</a>
