@@ -7,8 +7,11 @@ main:
   - title: "Let's study English"
     url: /contact/
 
-  - title: "Shop"
+  - title: "About"
     url: /about/
 
-  - title: "Let's study English 2"
-    url: /webtoon/
+  - title: "Contact"
+    url: /contact/
+
+  - title: "Shop"
+    url: /about/
