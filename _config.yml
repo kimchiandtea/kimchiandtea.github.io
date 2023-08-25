@@ -104,15 +104,15 @@ analytics:
 
 # Site Author
 author:
-  name             : ""
+  name             : 
   avatar           : "/assets/logo/logo.jpeg"
   bio              : 
   location         : "South Korea"
-  email            :
+  email            : "kimchiandtea0202@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "kimchiandtea0202@gmail.com"
+      # url: "kimchiandtea0202@gmail.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
