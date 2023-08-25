@@ -21,7 +21,7 @@
       </div>
     {% endif %}
 
-    <ul class="author__urls-wrapper">
+    <ul class="author__content">
         {%- for link in site.data.navigation.main -%}
         <li class="masthead__menu-item">
             <a href="{{ link.url | relative_url }}"{% if link.description %} title="{{ link.description }}"{% endif %}>{{ link.title }}</a>
