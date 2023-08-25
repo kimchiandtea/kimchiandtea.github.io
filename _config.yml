@@ -291,7 +291,7 @@ defaults:
       path: ""
       type: pages
     values:
-      author_profile: false
+      author_profile: true
       read_time: false
       comments: # true
       share: true
