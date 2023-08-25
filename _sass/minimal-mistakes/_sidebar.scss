@@ -166,6 +166,13 @@
 
 
 .author__content_bottom {
+    position: absolute;
+    bottom: 0;
+    padding-bottom: 40px
+}
+
+
+.author__content_bottom_ {
     display: table-cell;
     vertical-align: bottom;
     padding-left: 15px;
@@ -174,7 +181,7 @@
 
     @include breakpoint($large) {
         display: block;
-        width: 100%;
+        width: 0%;
         padding-left: 0;
         padding-right: 0;
     }
