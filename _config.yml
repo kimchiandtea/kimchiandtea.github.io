@@ -106,13 +106,13 @@ analytics:
 author:
   name             : "Kimchi & Tea"
   avatar           : "/assets/logo/logo.jpeg"
-  bio              : "I am an **amazing** person."
+  bio              : "Korean & UK."
   location         : "South Korea"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "kimchiandtea0202@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -127,7 +127,7 @@ author:
       # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://instagram.com/kimchi_and_tea"
 
 # Site Footer
 footer:
@@ -149,7 +149,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://instagram.com/kimchi_and_tea"
 
 
 # Reading Files
@@ -285,7 +285,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: false
+      author_profile: true
       read_time: false
       comments: # true
       share: true
@@ -301,5 +301,5 @@ defaults:
       author_profile: false
       read_time: false
       comments: # true
-      share: false
+      share: true
       related: false
