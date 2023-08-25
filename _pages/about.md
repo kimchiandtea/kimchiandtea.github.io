@@ -2,7 +2,7 @@
 sitemap: false
 excerpt: "Who are we?"
 title: 'About'
-permalink: /about.html
+permalink: /about/
 ---
 
 This is about us...
