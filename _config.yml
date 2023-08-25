@@ -106,7 +106,7 @@ analytics:
 author:
   name             : ""
   avatar           : "/assets/logo/logo.jpeg"
-  bio              : ""
+  bio              : 
   location         : "South Korea"
   email            :
   links:
