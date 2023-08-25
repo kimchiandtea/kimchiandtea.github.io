@@ -5,10 +5,10 @@ main:
     description: "Read the latest story"
 
   - title: "Let's study English"
-    url: /study_english/
+    url: /contact/
 
   - title: "Shop"
-    url: /shop/
+    url: /about/
 
-  - title: "Let's study English'"
+  - title: "Let's study English 2"
     url: /webtoon/
